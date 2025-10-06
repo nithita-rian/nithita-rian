@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer & Software Tester
 -----------------------------------
 
-Frontend Developer with foundation in Vue.js, Nuxt.js, and Figma-based UI/UX design. Skilled in API integration, I thrive on solving technical challenges and am committed to expanding my expertise to become a Full Stack Developer capable of delivering end-to-end solutions.
+Frontend Developer with a foundation in Research. Most of the tools used are Vue.js, Nuxt.js, and Figma, specializing in crafting user-centric web applications and dynamic interfaces. Eager to leverage proven skills in UI/UX design, API integration to solve problems.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nithita.rian@gmail.com](mailto:nithita.rian@gmail.com)
